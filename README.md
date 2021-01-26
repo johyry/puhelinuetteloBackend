@@ -1,1 +1,1 @@
-[Heroku]{https://puhelinuettelobackend.herokuapp.com/}
+[Heroku](https://puhelinuettelobackend.herokuapp.com/)
